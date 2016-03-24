@@ -1,0 +1,30 @@
+*********************************
+Coatl Aerospace Probes Plus! Beta
+*********************************
+
+Thank you for downloading and playtesting! I look forward to your feedback! -Akron
+
+============
+Known Issues:
+============
+- CA-SC102 Barometer animation will not play when running the experiment
+- CA-R3900 RTG animation is slightly jumpy
+- CA-R3900 RTG node for the magnetometer is oriented straight up, instead of an angle
+
+============
+Changelog:
+============
+
+Beta 0.11
+-Fixed animation and added Voyager RTG
+-Textured and added the CA06 'Quetzal' probe bus
+-Swapped the Pioneer and Voyager RTGs in terms of power generation and techtree unlock node
+	*Pioneer RTG is now the CA-R2000
+	*Voyager RTG is now the CA-R3900
+-Increased ElectricCharge generation of the CA-R3900 RTG from 0.35 to 0.39
+-Decreased mass of the CA-R3900 from 1 to 0.1
+-Minor Texture tweaks
+
+Beta 0.1
+-Initial release!
+
